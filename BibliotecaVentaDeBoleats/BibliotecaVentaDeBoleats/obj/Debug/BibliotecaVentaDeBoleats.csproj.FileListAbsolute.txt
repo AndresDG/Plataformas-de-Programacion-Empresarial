@@ -1,0 +1,6 @@
+C:\Users\andre\source\repos\BibliotecaVentaDeBoleats\BibliotecaVentaDeBoleats\obj\Debug\BibliotecaVentaDeBoleats.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\BibliotecaVentaDeBoleats\BibliotecaVentaDeBoleats\obj\Debug\BibliotecaVentaDeBoleats.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\BibliotecaVentaDeBoleats\BibliotecaVentaDeBoleats\bin\Debug\BibliotecaVentaDeBoleats.dll
+C:\Users\andre\source\repos\BibliotecaVentaDeBoleats\BibliotecaVentaDeBoleats\bin\Debug\BibliotecaVentaDeBoleats.pdb
+C:\Users\andre\source\repos\BibliotecaVentaDeBoleats\BibliotecaVentaDeBoleats\obj\Debug\BibliotecaVentaDeBoleats.dll
+C:\Users\andre\source\repos\BibliotecaVentaDeBoleats\BibliotecaVentaDeBoleats\obj\Debug\BibliotecaVentaDeBoleats.pdb
