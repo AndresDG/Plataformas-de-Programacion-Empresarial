@@ -1,0 +1,4 @@
+Avengers, Accion, Disney, No, 200
+La llorona, Terror, NPi Films, No, 145
+Sonic, Aventura, Dreamworks, No, 120
+Star wars, Accion, LucasFilm, Si, 150

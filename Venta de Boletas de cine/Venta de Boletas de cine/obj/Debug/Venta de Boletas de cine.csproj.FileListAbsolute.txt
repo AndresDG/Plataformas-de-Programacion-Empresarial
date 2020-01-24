@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\Venta de Boletas de cine\Venta de Boletas de cine\bin\Debug\Venta de Boletas de cine.exe.config
+C:\Users\andre\source\repos\Venta de Boletas de cine\Venta de Boletas de cine\bin\Debug\Venta de Boletas de cine.exe
+C:\Users\andre\source\repos\Venta de Boletas de cine\Venta de Boletas de cine\bin\Debug\Venta de Boletas de cine.pdb
+C:\Users\andre\source\repos\Venta de Boletas de cine\Venta de Boletas de cine\bin\Debug\Cine.dll
+C:\Users\andre\source\repos\Venta de Boletas de cine\Venta de Boletas de cine\bin\Debug\Cine.pdb
+C:\Users\andre\source\repos\Venta de Boletas de cine\Venta de Boletas de cine\obj\Debug\Venta de Boletas de cine.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Venta de Boletas de cine\Venta de Boletas de cine\obj\Debug\Venta de Boletas de cine.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Venta de Boletas de cine\Venta de Boletas de cine\obj\Debug\Venta de Boletas de cine.csproj.CopyComplete
+C:\Users\andre\source\repos\Venta de Boletas de cine\Venta de Boletas de cine\obj\Debug\Venta de Boletas de cine.exe
+C:\Users\andre\source\repos\Venta de Boletas de cine\Venta de Boletas de cine\obj\Debug\Venta de Boletas de cine.pdb
