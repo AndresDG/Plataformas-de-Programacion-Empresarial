@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\NrosPrimos\bin\Debug\NrosPrimos.exe.config
+C:\Users\andre\source\repos\NrosPrimos\bin\Debug\NrosPrimos.exe
+C:\Users\andre\source\repos\NrosPrimos\bin\Debug\NrosPrimos.pdb
+C:\Users\andre\source\repos\NrosPrimos\obj\Debug\NrosPrimos.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\NrosPrimos\obj\Debug\NrosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\NrosPrimos\obj\Debug\NrosPrimos.exe
+C:\Users\andre\source\repos\NrosPrimos\obj\Debug\NrosPrimos.pdb
