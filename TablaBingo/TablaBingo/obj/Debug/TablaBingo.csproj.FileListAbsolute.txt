@@ -1,0 +1,9 @@
+C:\Users\wilde\Documents\Visual\TablaBingo\TablaBingo\bin\Debug\TablaBingo.exe.config
+C:\Users\wilde\Documents\Visual\TablaBingo\TablaBingo\bin\Debug\TablaBingo.exe
+C:\Users\wilde\Documents\Visual\TablaBingo\TablaBingo\bin\Debug\TablaBingo.pdb
+C:\Users\wilde\Documents\Visual\TablaBingo\TablaBingo\obj\Debug\TablaBingo.csprojAssemblyReference.cache
+C:\Users\wilde\Documents\Visual\TablaBingo\TablaBingo\obj\Debug\TablaBingo.FmTblBingo.resources
+C:\Users\wilde\Documents\Visual\TablaBingo\TablaBingo\obj\Debug\TablaBingo.Properties.Resources.resources
+C:\Users\wilde\Documents\Visual\TablaBingo\TablaBingo\obj\Debug\TablaBingo.csproj.GenerateResource.cache
+C:\Users\wilde\Documents\Visual\TablaBingo\TablaBingo\obj\Debug\TablaBingo.exe
+C:\Users\wilde\Documents\Visual\TablaBingo\TablaBingo\obj\Debug\TablaBingo.pdb
