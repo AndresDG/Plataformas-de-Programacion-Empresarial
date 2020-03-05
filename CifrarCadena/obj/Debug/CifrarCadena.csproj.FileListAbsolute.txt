@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\CifrarCadena\bin\Debug\CifrarCadena.exe.config
+C:\Users\andre\source\repos\CifrarCadena\bin\Debug\CifrarCadena.exe
+C:\Users\andre\source\repos\CifrarCadena\bin\Debug\CifrarCadena.pdb
+C:\Users\andre\source\repos\CifrarCadena\obj\Debug\CifrarCadena.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\CifrarCadena\obj\Debug\CifrarCadena.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\CifrarCadena\obj\Debug\CifrarCadena.exe
+C:\Users\andre\source\repos\CifrarCadena\obj\Debug\CifrarCadena.pdb
