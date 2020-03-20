@@ -1,0 +1,14 @@
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\FlujoDeIrrigacion.exe
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\test.txt
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\FlujoDeIrrigacion.deps.json
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\FlujoDeIrrigacion.runtimeconfig.json
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\FlujoDeIrrigacion.runtimeconfig.dev.json
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\FlujoDeIrrigacion.dll
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\FlujoDeIrrigacion.pdb
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\FlujoDeIrrigacion.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\FlujoDeIrrigacion.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\FlujoDeIrrigacion.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\FlujoDeIrrigacion.AssemblyInfo.cs
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\FlujoDeIrrigacion.dll
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\FlujoDeIrrigacion.pdb
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\FlujoDeIrrigacion.genruntimeconfig.cache

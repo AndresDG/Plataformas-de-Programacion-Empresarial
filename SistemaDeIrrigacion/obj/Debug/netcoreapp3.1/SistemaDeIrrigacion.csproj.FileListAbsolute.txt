@@ -1,0 +1,26 @@
+C:\Users\danel\source\repos\SistemaDeIrrigacion\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\SistemaDeIrrigacion.csprojAssemblyReference.cache
+C:\Users\danel\source\repos\SistemaDeIrrigacion\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\SistemaDeIrrigacion.AssemblyInfoInputs.cache
+C:\Users\danel\source\repos\SistemaDeIrrigacion\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\SistemaDeIrrigacion.AssemblyInfo.cs
+C:\Users\danel\source\repos\SistemaDeIrrigacion\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\SistemaDeIrrigacion.exe
+C:\Users\danel\source\repos\SistemaDeIrrigacion\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\test.txt
+C:\Users\danel\source\repos\SistemaDeIrrigacion\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\SistemaDeIrrigacion.deps.json
+C:\Users\danel\source\repos\SistemaDeIrrigacion\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\SistemaDeIrrigacion.runtimeconfig.json
+C:\Users\danel\source\repos\SistemaDeIrrigacion\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\SistemaDeIrrigacion.runtimeconfig.dev.json
+C:\Users\danel\source\repos\SistemaDeIrrigacion\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\SistemaDeIrrigacion.dll
+C:\Users\danel\source\repos\SistemaDeIrrigacion\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\SistemaDeIrrigacion.pdb
+C:\Users\danel\source\repos\SistemaDeIrrigacion\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\SistemaDeIrrigacion.dll
+C:\Users\danel\source\repos\SistemaDeIrrigacion\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\SistemaDeIrrigacion.pdb
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\SistemaDeIrrigacion.exe
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\test.txt
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\SistemaDeIrrigacion.deps.json
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\SistemaDeIrrigacion.runtimeconfig.json
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\SistemaDeIrrigacion.runtimeconfig.dev.json
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\SistemaDeIrrigacion.dll
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\bin\Debug\netcoreapp3.1\SistemaDeIrrigacion.pdb
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\SistemaDeIrrigacion.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\SistemaDeIrrigacion.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\SistemaDeIrrigacion.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\SistemaDeIrrigacion.AssemblyInfo.cs
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\SistemaDeIrrigacion.dll
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\SistemaDeIrrigacion.pdb
+C:\Users\andre\Desktop\U\Semestre 6 - 7\Plataformas de Programación Empresarial\SistemaDeIrrigacion\obj\Debug\netcoreapp3.1\SistemaDeIrrigacion.genruntimeconfig.cache
